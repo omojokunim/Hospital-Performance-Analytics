@@ -1,4 +1,4 @@
-# 🏥 Hospital Performance Analytics
+#  Hospital Performance Analytics
 
 > A comprehensive healthcare analytics project that evaluates hospital performance, operational efficiency, patient outcomes, and clinical KPIs using Python.
 > 
