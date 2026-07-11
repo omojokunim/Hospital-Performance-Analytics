@@ -1,4 +1,7 @@
+# 🏥 Hospital Performance Analytics
 
+> A comprehensive healthcare analytics project that evaluates hospital performance, operational efficiency, patient outcomes, and clinical KPIs using Python.
+> 
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
 ![Seaborn](https://img.shields.io/badge/Healthcare-Analytics-red) 
